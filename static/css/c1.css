@@ -1,0 +1,15 @@
+body{
+    color: aqua;
+    background:linear-gradient(45deg,green, red, black);
+}
+img{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    border-radius: 55px;
+    border: 10px solid blue;
+}
+h1{
+    border-radius: 15px;
+    background-color:black;
+}
